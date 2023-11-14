@@ -1,7 +1,7 @@
 import React from 'react'
 import './feature.css'
 
-const Feature = () => {
+export const Feature = () => {
   return (
     <div>feature</div>
   )
